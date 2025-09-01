@@ -1,0 +1,9 @@
+[package]
+name = "orbit-sun-earth-moon"
+version = "0.1.0"
+edition = "2021"
+
+# ---------- Desktop deps ----------
+[dependencies]
+bevy = "0.14"
+bevy_egui = "0.28"
