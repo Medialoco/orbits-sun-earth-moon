@@ -62,14 +62,20 @@ Dependencies (`Cargo.toml`):
 # Clone
 git clone https://github.com/<you>/orbits-sun-earth-moon.git
 cd orbits-sun-earth-moon
+```
 
+```bash
 # Debug build
 cargo run
+```
 
+```bash
 # Optimized build
 cargo run --release
+```
 
+## Screenshot
 
-<p align="center">
+<div align="center">
   <img src="screenshot.png" alt="Orbit Sun Earth Moon simulation" width="600"/>
-</p>
+</div>
